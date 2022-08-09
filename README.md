@@ -13,7 +13,7 @@ Landing page of a fictional startup called "Omnifood".
 -   [x] Navigation for mobile devices
 
 ## 💻 Live Demo
-
+https://abhishek-omnifood.netlify.app/
 
 
 ## 🛠️ Technologies Used
