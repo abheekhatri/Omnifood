@@ -4,20 +4,20 @@
 
 ## 📖 Description
 
-Landing page of a fictional startup called "Omnifood".  
+Landing page of a fictional startup called "Omnifood".
 
 ## ✨ Features
 
--   [x] Responsive Layout
--   [x] Smooth Navigation 
--   [x] Navigation for mobile devices
+- [x] Responsive Layout
+- [x] Smooth Navigation
+- [x] Navigation for mobile devices
 
 ## 💻 Live Demo
-https://abhishek-omnifood.netlify.app/
 
+https://omnifood.abhishekkhatri.com/
 
 ## 🛠️ Technologies Used
 
--   HTML 5
--   CSS 3
--   JavaScript
+- HTML 5
+- CSS 3
+- JavaScript
